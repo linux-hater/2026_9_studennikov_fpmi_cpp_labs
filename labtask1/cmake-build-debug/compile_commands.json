@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/kaban/CLionProjects/lab/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -fdiagnostics-color=always -fmodules-ts -fmodule-mapper=CMakeFiles/lab.dir/main.cpp.o.modmap -MD -fdeps-format=p1689r5 -x c++ -o CMakeFiles/lab.dir/main.cpp.o -c /home/kaban/CLionProjects/lab/main.cpp",
+  "file": "/home/kaban/CLionProjects/lab/main.cpp",
+  "output": "/home/kaban/CLionProjects/lab/cmake-build-debug/CMakeFiles/lab.dir/main.cpp.o"
+}
+]
