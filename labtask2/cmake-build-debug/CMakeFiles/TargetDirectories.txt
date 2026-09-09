@@ -1,3 +1,0 @@
-/home/kaban/CLionProjects/labtask2/cmake-build-debug/CMakeFiles/labtask2.dir
-/home/kaban/CLionProjects/labtask2/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/kaban/CLionProjects/labtask2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
