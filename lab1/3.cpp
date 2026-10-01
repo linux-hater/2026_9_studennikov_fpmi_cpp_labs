@@ -6,7 +6,7 @@ int main() {
     std::cout << "enter number";
     std::cin >> i;
     a=i;
-    std::reverse(i.rbegin(), i.rend());
+    std::reverse(i.begin(), i.end());
     if (i==a){
         std::cout<<"number palindorm";
     }else {
