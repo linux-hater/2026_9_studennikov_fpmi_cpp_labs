@@ -39,7 +39,7 @@ int vvod(double arr[]) {
         std::cout<<"OSHIBKA"<<std::endl;
         return -1;
     }
-    std::cout << "Preobrazovannyi massiv:" << std::endl;
+    std::cout << " Massiv:" << std::endl;
     for (int i = 0; i < ke; ++i) {
         std::cout << arr[i] << " ";
     }
