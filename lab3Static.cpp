@@ -10,6 +10,9 @@ int vvod(double arr[]) {
     int ke;
     std::cout<<"vvedite kolichestvo elementov do 100"<<std::endl;
     std::cin>>ke;
+    if (ke<=0 || ke>=100) {
+        std::cout<<"ot 0 do 100"<<std::endl;
+    return -1;}
     std::cout<<"vvesti elementi? ili random y/n "<<std::endl;
     std::string a;
     std::cin>>a;
