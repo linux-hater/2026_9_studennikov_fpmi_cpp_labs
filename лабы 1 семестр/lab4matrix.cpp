@@ -50,7 +50,7 @@ void pokaz_matrix(int** matrix, int str, int stolb) {
 		std::cout << std::endl;
 	}
 }
-void pokaz_global(int** original, int** modified, int str, int stolb) {
+void pokaz_global(int** matrix, int** mutant, int str, int stolb) {
 	std::cout << std::endl << "Bilo" << std::endl;
 	pokaz_matrix(original, str, stolb);
 
