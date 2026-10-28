@@ -52,10 +52,10 @@ void pokaz_matrix(int** matrix, int str, int stolb) {
 }
 void pokaz_global(int** matrix, int** mutant, int str, int stolb) {
 	std::cout << std::endl << "Bilo" << std::endl;
-	pokaz_matrix(original, str, stolb);
+	pokaz_matrix(matrix, str, stolb);
 
 	std::cout << std::endl << "Stalo" << std::endl;
-	pokaz_matrix(modified, str, stolb);
+	pokaz_matrix(mutant, str, stolb);
 }
 
 
